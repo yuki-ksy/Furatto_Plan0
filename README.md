@@ -1,24 +1,37 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Furatto Plan
 
-Things you may want to cover:
+## サイト概要
+日帰り専用の旅行サイト
 
-* Ruby version
+### サイトテーマ
+ふらっと出掛ける場所を探す
 
-* System dependencies
+### テーマを選んだ理由
+急に出かけたい気分になった時に気軽に検索できるサイト
 
-* Configuration
 
-* Database creation
+### ターゲットユーザ
+休日を充実させたい人
 
-* Database initialization
+### 主な利用シーン
+休日
+急に1日空いてしまった時
+ふらっと出かけたい時
 
-* How to run the test suite
+## 設計書
 
-* Services (job queues, cache servers, search engines, etc.)
+### 機能一覧
+<https://docs.google.com/spreadsheets/d/1VLg8AbOROSqxCqsYPqQwvo54yFBgpT0u9_Ued9CLjCg/edit?usp=sharing>
 
-* Deployment instructions
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* ...
+## 使用素材
+参考サイト
+<https://play-life.jp/>
